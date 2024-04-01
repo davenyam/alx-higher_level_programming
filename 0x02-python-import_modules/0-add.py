@@ -1,5 +1,4 @@
-"""Module providing a function printing python version."""
-#!/usr/bin/env python3
+#!/usr/bin/python
 from add_0 import add
 
 if __name__ == "__main__":
